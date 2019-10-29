@@ -52,7 +52,7 @@ Pixel- and vector-based image editing and UI design tools
 
 ### Adobe Illustrator
 
-- [Inkscape]/https://inkscape.org/)
+- [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org/)
 - [sK1](https://sk1project.net/)
 - [Gravit Designer](https://www.designer.io/)
