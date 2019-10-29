@@ -12,7 +12,7 @@ This goal of this list is to offer users switching from the Mac to Linux the mos
 
 I'm including commercial, closed-source and web-based software and not limiting it to just free or libre software. While I personally favor native libre software, not everyone will share my priorities. I may eventually include licensing/pricing/platform info or separate the libre from the non-libre and the native from the web-based software somehow.
 
-Apps may appear in more than one section if they don't clearly fall on one side of the fence.
+The list is organized into broad categories that are subdivided into sets of Mac apps, under which you'll find all Linux apps that can replace the respective Mac apps. Apps may appear in more than one section if they don't clearly fall on one side of the fence.
 
 Feel free to contribute via a pull request.
 
@@ -41,10 +41,13 @@ Feel free to contribute via a pull request.
 
 ## Graphics & Design
 
+Pixel- and vector-based image editing and UI design tools
+
 ### Adobe Photoshop
 
 - [GIMP](https://www.gimp.org/)
 - [Krita](https://krita.org/)
+- [Pinta](https://pinta-project.com/)
 
 ### Adobe Illustrator
 
@@ -52,11 +55,24 @@ Feel free to contribute via a pull request.
 - [Krita](https://krita.org/)
 - [sK1](https://sk1project.net/)
 - [Gravit Designer](https://www.designer.io/)
+- [Vectr](https://vectr.com/)
 
 ### Sketch
 
 - [Gravit Designer](https://www.designer.io/)
 - [Figma](https://www.figma.com/)
+- [Vectr](https://vectr.com/)
+
+## Misc
+
+### Adobe Lightroom, Apple Photos
+
+Photo processing and management
+
+- [Fotoxx](https://kornelix.net/fotoxx/fotoxx.html)
+- [Rawtherapee](https://rawtherapee.com/)
+- [digiKam](https://www.digikam.org/)
+- [Darktable](https://www.darktable.org/)
 
 <hr>
 
