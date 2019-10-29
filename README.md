@@ -6,7 +6,15 @@ While all of that may still hold true in 2019, the Mac seems to be headed down a
 
 If you are one of these Mac users and you don't want to go back to Windows, you might want to consider switching to Linux. To help with that switch, here you'll find a curated list of apps that can replace the apps you've been using on the Mac.
 
-This list is a work in progress. Feel free to contribute via a pull request.
+## Notes
+
+This goal of this list is to offer users switching from the Mac to Linux the most comprehensive list of Linux application software that can replace equivalent Mac apps. I only include apps that are currently maintained. I don't recommend any particular Linux distribution or differentiate between them or their "native" apps in any way.
+
+I'm including commercial, closed-source and web-based software and not limiting it to just free or libre software. While I personally favor native libre software, not everyone will share my priorities. I may eventually include licensing/pricing/platform info or separate the libre from the non-libre and the native from the web-based software somehow.
+
+Apps may appear in more than one section if they don't clearly fall on one side of the fence.
+
+Feel free to contribute via a pull request.
 
 ## Office
 
@@ -30,5 +38,26 @@ This list is a work in progress. Feel free to contribute via a pull request.
 
 - [Gnumeric](http://www.gnumeric.org/)
 - [pyspread](https://manns.github.io/pyspread/)
+
+## Graphics & Design
+
+### Adobe Photoshop
+
+- [GIMP](https://www.gimp.org/)
+- [Krita](https://krita.org/)
+
+### Adobe Illustrator
+
+- [Inkscape]/https://inkscape.org/)
+- [Krita](https://krita.org/)
+- [sK1](https://sk1project.net/)
+- [Gravit Designer](https://www.designer.io/)
+
+### Sketch
+
+- [Gravit Designer](https://www.designer.io/)
+- [Figma](https://www.figma.com/)
+
+<hr>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
