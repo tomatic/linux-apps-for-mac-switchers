@@ -48,6 +48,7 @@ Pixel- and vector-based image editing and UI design tools
 - [GIMP](https://www.gimp.org/)
 - [Krita](https://krita.org/)
 - [Pinta](https://pinta-project.com/)
+- [Pixlr](https://pixlr.com/) (web)
 
 ### Adobe Illustrator
 
