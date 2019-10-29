@@ -49,6 +49,7 @@ Pixel- and vector-based image editing and UI design tools
 - [Krita](https://krita.org/)
 - [Pinta](https://pinta-project.com/)
 - [Pixlr](https://pixlr.com/) (web)
+- [Photopea](https://www.photopea.com/) (web)
 
 ### Adobe Illustrator
 
@@ -74,6 +75,7 @@ Photo processing and management
 - [Rawtherapee](https://rawtherapee.com/)
 - [digiKam](https://www.digikam.org/)
 - [Darktable](https://www.darktable.org/)
+- [AfterShot Pro](https://www.aftershotpro.com/)
 
 <hr>
 
