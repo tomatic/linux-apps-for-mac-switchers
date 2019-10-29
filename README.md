@@ -8,4 +8,27 @@ If you are one of these Mac users and you don't want to go back to Windows, you 
 
 This list is a work in progress. Feel free to contribute via a pull request.
 
+## Office
+
+### Microsoft Office, Apple iWork
+
+#### Full office suites (word processor, spreadsheet, presentations)
+
+- [LibreOffice](https://www.libreoffice.org/)
+- [WPS Office](https://www.wps.com/office/linux)
+- [SoftMaker Office](https://www.softmaker.com/en/softmaker-office)
+- [ONLYOFFICE](https://www.onlyoffice.com/)
+- [Calligra](https://www.calligra.org/)
+- [Google Drive](http://drive.google.com/) (web)
+- [Zoho Office](https://www.zoho.com/office/) (web)
+
+#### Standalone word processors
+
+- [AbiWord](https://www.abisource.com/)
+
+#### Standalone spreadsheets
+
+- [Gnumeric](http://www.gnumeric.org/)
+- [pyspread](https://manns.github.io/pyspread/)
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
