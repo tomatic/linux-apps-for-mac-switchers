@@ -12,15 +12,17 @@ This goal of this list is to offer users switching from the Mac to Linux the mos
 
 I'm including commercial, closed-source and web-based software and not limiting it to just free or libre software. While I personally favor native libre software, not everyone will share my priorities. I may eventually include licensing/pricing/platform info or separate the libre from the non-libre and the native from the web-based software somehow.
 
-The list is organized into broad categories that are subdivided into sets of Mac apps, under which you'll find all Linux apps that can replace the respective Mac apps. Apps may appear in more than one section if they don't clearly fall on one side of the fence.
+The list is organized into broad categories that are subdivided into (hopefully) sensible subcategories, under which you'll find a list of the most common Mac apps and then the Linux apps that can replace them. Apps may appear in more than one section if they don't clearly fall under a particular category.
 
 Feel free to contribute via a pull request.
 
 ## Office
 
-### Microsoft Office, Apple iWork
+### Office suites (word processor, spreadsheet, presentations)
 
-#### Full office suites (word processor, spreadsheet, presentations)
+Mac apps: Microsoft Office, Apple iWork
+
+Linux apps:
 
 - [LibreOffice](https://www.libreoffice.org/)
 - [WPS Office](https://www.wps.com/office/linux)
@@ -30,11 +32,11 @@ Feel free to contribute via a pull request.
 - [Google Drive](http://drive.google.com/) (web)
 - [Zoho Office](https://www.zoho.com/office/) (web)
 
-#### Standalone word processors
+### Standalone word processors
 
 - [AbiWord](https://www.abisource.com/)
 
-#### Standalone spreadsheets
+### Standalone spreadsheets
 
 - [Gnumeric](http://www.gnumeric.org/)
 - [pyspread](https://manns.github.io/pyspread/)
@@ -43,7 +45,11 @@ Feel free to contribute via a pull request.
 
 Pixel- and vector-based image editing and UI design tools
 
-### Adobe Photoshop
+### Pixel-based image editing
+
+Mac apps: Adobe Photoshop, Acorn, Pixelmator
+
+Linux apps:
 
 - [GIMP](https://www.gimp.org/)
 - [Krita](https://krita.org/)
@@ -51,25 +57,47 @@ Pixel- and vector-based image editing and UI design tools
 - [Pixlr](https://pixlr.com/) (web)
 - [Photopea](https://www.photopea.com/) (web)
 
-### Adobe Illustrator
+### Vector-based image editing and UI design tools
+
+Mac apps: Adobe Illustrator, Sketch
+
+Linux apps:
 
 - [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org/)
 - [sK1](https://sk1project.net/)
 - [Gravit Designer](https://www.designer.io/)
 - [Vectr](https://vectr.com/)
-
-### Sketch
-
 - [Gravit Designer](https://www.designer.io/)
 - [Figma](https://www.figma.com/)
 - [Vectr](https://vectr.com/)
 
-## Misc
+## Audio
 
-### Adobe Lightroom, Apple Photos
+### Audio editing / DAW
 
-Photo processing and management
+Mac apps: Adobe Audition, Amadeus Pro, Fission, ...
+
+Linux apps:
+
+- [Audacity](https://www.audacityteam.org/)
+- [Ardour](https://ardour.org/)
+
+## Media Management
+
+Cataloging, organizing, and managing photos, music, etc.
+
+### Music library management
+
+Mac apps: iTunes
+
+Linux apps:
+
+### Photo management
+
+Mac apps: Adobe Lightroom, Apple Photos
+
+Linux apps:
 
 - [Fotoxx](https://kornelix.net/fotoxx/fotoxx.html)
 - [Rawtherapee](https://rawtherapee.com/)
