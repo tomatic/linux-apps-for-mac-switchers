@@ -8,7 +8,7 @@ If you are one of these Mac users and you don't want to go back to Windows, you 
 
 ## Notes
 
-This goal of this list is to offer users switching from the Mac to Linux the most comprehensive list of Linux application software that can replace equivalent Mac apps. I only include apps that are currently maintained. I don't recommend any particular Linux distribution or differentiate between them or their "native" apps in any way.
+The goal of this list is to offer users switching from the Mac to Linux the most comprehensive list of Linux application software that can replace equivalent Mac apps. I only include apps that are currently maintained. I don't recommend any particular Linux distribution or differentiate between them or their "native" apps in any way.
 
 I'm including commercial, closed-source and web-based software and not limiting it to just free or libre software. While I personally favor native libre software, not everyone will share my priorities. I may eventually include licensing/pricing/platform info or separate the libre from the non-libre and the native from the web-based software somehow.
 
@@ -104,6 +104,18 @@ Linux apps:
 - [digiKam](https://www.digikam.org/)
 - [Darktable](https://www.darktable.org/)
 - [AfterShot Pro](https://www.aftershotpro.com/)
+
+## Utilities
+
+### Single-source / site-specific browser
+
+Create a native app from any website
+
+Mac apps: Fluid, Epichrome, Flotato
+
+Linux apps:
+
+- [nativefier](https://github.com/jiahaog/nativefier)
 
 <hr>
 
