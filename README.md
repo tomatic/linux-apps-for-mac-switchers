@@ -101,9 +101,7 @@ Linux apps:
 - [sK1](https://sk1project.net/)
 - [Gravit Designer](https://www.designer.io/)
 - [Vectr](https://vectr.com/)
-- [Gravit Designer](https://www.designer.io/)
 - [Figma](https://www.figma.com/)
-- [Vectr](https://vectr.com/)
 
 ## Audio
 
