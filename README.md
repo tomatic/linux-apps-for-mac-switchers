@@ -16,7 +16,7 @@ The list is organized into broad categories that are subdivided into (hopefully)
 
 Feel free to contribute via a pull request.
 
-## Office
+## Office & Productivity
 
 ### Office suites (word processor, spreadsheet, presentations)
 
@@ -40,6 +40,39 @@ Linux apps:
 
 - [Gnumeric](http://www.gnumeric.org/)
 - [pyspread](https://manns.github.io/pyspread/)
+
+### Email
+
+Mac apps: Apple Mail, MailMate, AirMail, Microsoft Outlook, Postbox, Thunderbird, Newton, ...
+
+Linux apps:
+
+- [Thunderbird](https://www.thunderbird.net/)
+- [Claws Mail](https://www.claws-mail.org/)
+- [Geary](https://wiki.gnome.org/Apps/Geary)
+- [Evolution](https://wiki.gnome.org/Apps/Evolution)
+- [Kontact](https://kontact.kde.org/)
+
+### Calendar
+
+Mac apps: Apple Calendar, Fantastical, BusyCal, Microsoft Outlook, ...
+
+Linux apps:
+
+- [Lightning for Thunderbird](https://addons.thunderbird.net/de/thunderbird/addon/lightning/)
+- [Evolution](https://wiki.gnome.org/Apps/Evolution)
+- [Kontact](https://kontact.kde.org/)
+- [NextCloud](https://nextcloud.com/)
+
+### Contacts
+
+Mac apps: Apple Contacts, BusyContacts, Cardhop, Microsoft Outlook, ...
+
+Linux apps:
+
+- [Evolution](https://wiki.gnome.org/Apps/Evolution)
+- [Kontact](https://kontact.kde.org/)
+- [NextCloud](https://nextcloud.com/)
 
 ## Graphics & Design
 
