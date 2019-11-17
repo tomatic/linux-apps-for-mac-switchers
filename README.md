@@ -8,7 +8,7 @@ If you are one of these Mac users and you don't want to go back to Windows, you 
 
 ## Notes
 
-This goal of this list is to offer users switching from the Mac to Linux the most comprehensive list of Linux application software that can replace equivalent Mac apps. I only include apps that are currently maintained. I don't recommend any particular Linux distribution or differentiate between them or their "native" apps in any way.
+The goal of this list is to offer users switching from the Mac to Linux the most comprehensive list of Linux application software that can replace equivalent Mac apps. I only include apps that are currently maintained. I don't recommend any particular Linux distribution or differentiate between them or their "native" apps in any way.
 
 I'm including commercial, closed-source and web-based software and not limiting it to just free or libre software. While I personally favor native libre software, not everyone will share my priorities. I may eventually include licensing/pricing/platform info or separate the libre from the non-libre and the native from the web-based software somehow.
 
@@ -16,7 +16,7 @@ The list is organized into broad categories that are subdivided into (hopefully)
 
 Feel free to contribute via a pull request.
 
-## Office
+## Office & Productivity
 
 ### Office suites (word processor, spreadsheet, presentations)
 
@@ -40,6 +40,39 @@ Linux apps:
 
 - [Gnumeric](http://www.gnumeric.org/)
 - [pyspread](https://manns.github.io/pyspread/)
+
+### Email
+
+Mac apps: Apple Mail, MailMate, AirMail, Microsoft Outlook, Postbox, Thunderbird, Newton, ...
+
+Linux apps:
+
+- [Thunderbird](https://www.thunderbird.net/)
+- [Claws Mail](https://www.claws-mail.org/)
+- [Geary](https://wiki.gnome.org/Apps/Geary)
+- [Evolution](https://wiki.gnome.org/Apps/Evolution)
+- [Kontact](https://kontact.kde.org/)
+
+### Calendar
+
+Mac apps: Apple Calendar, Fantastical, BusyCal, Microsoft Outlook, ...
+
+Linux apps:
+
+- [Lightning for Thunderbird](https://addons.thunderbird.net/de/thunderbird/addon/lightning/)
+- [Evolution](https://wiki.gnome.org/Apps/Evolution)
+- [Kontact](https://kontact.kde.org/)
+- [NextCloud](https://nextcloud.com/)
+
+### Contacts
+
+Mac apps: Apple Contacts, BusyContacts, Cardhop, Microsoft Outlook, ...
+
+Linux apps:
+
+- [Evolution](https://wiki.gnome.org/Apps/Evolution)
+- [Kontact](https://kontact.kde.org/)
+- [NextCloud](https://nextcloud.com/)
 
 ## Graphics & Design
 
@@ -68,9 +101,7 @@ Linux apps:
 - [sK1](https://sk1project.net/)
 - [Gravit Designer](https://www.designer.io/)
 - [Vectr](https://vectr.com/)
-- [Gravit Designer](https://www.designer.io/)
 - [Figma](https://www.figma.com/)
-- [Vectr](https://vectr.com/)
 
 ## Audio
 
@@ -104,6 +135,18 @@ Linux apps:
 - [digiKam](https://www.digikam.org/)
 - [Darktable](https://www.darktable.org/)
 - [AfterShot Pro](https://www.aftershotpro.com/)
+
+## Utilities
+
+### Single-source / site-specific browser
+
+Create a native app from any website
+
+Mac apps: Fluid, Epichrome, Flotato
+
+Linux apps:
+
+- [nativefier](https://github.com/jiahaog/nativefier)
 
 <hr>
 
