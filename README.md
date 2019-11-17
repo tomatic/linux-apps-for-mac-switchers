@@ -156,12 +156,12 @@ Mac apps: Apple FileMerge, Kaleidoscope, Beyond Compare, Araxis Merge, DeltaWalk
 
 Linux apps:
 
-- [https://kde.org/applications/development/org.kde.kompare](Kompare)
-- [https://sourcegear.com/diffmerge/](DiffMerge)
-- [http://meldmerge.org/](Meld)
-- [http://kdiff3.sourceforge.net/](KDiff3)
-- [https://sourceforge.net/projects/tkdiff/](tkdiff)
-- [https://www.scootersoftware.com/index.php](Beyond Compare)
+- [Kompare](https://kde.org/applications/development/org.kde.kompare)
+- [DiffMerge](https://sourcegear.com/diffmerge/)
+- [Meld](http://meldmerge.org/)
+- [KDiff3](http://kdiff3.sourceforge.net/)
+- [tkdiff](https://sourceforge.net/projects/tkdiff/)
+- [Beyond Compare](https://www.scootersoftware.com/index.php)
 
 <hr>
 
