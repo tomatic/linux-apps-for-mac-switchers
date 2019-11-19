@@ -103,6 +103,14 @@ Linux apps:
 - [Vectr](https://vectr.com/)
 - [Figma](https://www.figma.com/)
 
+### Desktop Publishing
+
+Mac apps: QuarkXPress, Apple Pages, Adobe InDesign, iCalamus, Affinity Publisher
+
+Linux apps:
+
+- [Scribus](https://www.scribus.net/)
+
 ## Audio
 
 ### Audio editing / DAW
@@ -113,6 +121,8 @@ Linux apps:
 
 - [Audacity](https://www.audacityteam.org/)
 - [Ardour](https://ardour.org/)
+- [T7 DAW](https://www.tracktion.com/products/t7-daw)
+- [Qtractor](https://sourceforge.net/projects/qtractor/)
 
 ## Media Management
 
@@ -138,6 +148,17 @@ Linux apps:
 
 ## Utilities
 
+### Launcher
+
+Mac apps: LaunchBar, Alfred
+
+Linux apps:
+
+- [Albert](https://github.com/albertlauncher/albert)
+- [zazu](https://github.com/tinytacoteam/zazu)
+- [kupfer](https://kupferlauncher.github.io/)
+- [dmenu](https://tools.suckless.org/dmenu/)
+
 ### Single-source / site-specific browser
 
 Create a native app from any website
@@ -149,6 +170,17 @@ Linux apps:
 - [nativefier](https://github.com/jiahaog/nativefier)
 
 ## Development
+
+### Code Editors
+
+Mac apps: Atom, VS Code, TextMate, BBEdit, Sublime Text, ...
+
+Linux apps:
+
+- [Vim](https://www.vim.org/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [VS Code](https://code.visualstudio.com/)
+- [Atom](https://atom.io)
 
 ### Diff tools
 
