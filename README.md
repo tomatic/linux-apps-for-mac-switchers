@@ -93,6 +93,7 @@ Mac apps: GrandTotal, Billings
 Linux apps:
 
 - [Fakturama](https://www.fakturama.info/)
+- [GnuCash](https://www.gnucash.org/)
 
 ### Writing
 
@@ -141,6 +142,16 @@ Linux apps:
 
 - [Scribus](https://www.scribus.net/)
 
+### Notes & "Anything Buckets"
+
+Mac apps: Evernote, Yojimbo, DEVONthink, SimpleNote
+
+Linux apps:
+
+- [Notecase Pro](https://www.notecasepro.com/)
+- [Boostnote](https://boostnote.io/)
+- [cherrytree](https://www.giuspen.com/cherrytree/)
+
 ## Audio
 
 ### Audio editing / DAW
@@ -175,8 +186,33 @@ Linux apps:
 - [digiKam](https://www.digikam.org/)
 - [Darktable](https://www.darktable.org/)
 - [AfterShot Pro](https://www.aftershotpro.com/)
+- [Shotwell](https://wiki.ubuntuusers.de/Shotwell/)
 
 ## Utilities
+
+### File Manager
+
+macOS and all Linux distributions come with their own file managers, which we'll not list here.
+
+Mac apps: PathFinder, ForkLift
+
+Linux apps:
+
+- [Double Commander](https://doublecmd.sourceforge.io/)
+- [Polo](https://github.com/teejee2008/polo)
+- [Krusader](https://kde.org/applications/utilities/org.kde.krusader)
+- [Worker](http://www.boomerangsworld.de/cms/worker/)
+- [4Pane](http://www.4pane.co.uk/)
+
+#### Console-based
+
+- [Midnight Commander](https://midnight-commander.org/)
+- [Ranger](https://github.com/ranger/ranger)
+- [vifm](https://vifm.info/)
+- [cfiles](https://github.com/mananapr/cfiles)
+- [nnn](https://github.com/jarun/nnn)
+- [Last File Manager](https://inigo.katxi.org/devel/lfm/
+- [LF](https://github.com/gokcehan/lf)
 
 ### Password manager
 
@@ -225,6 +261,14 @@ Linux apps:
 - [Déjà Dup](https://gitlab.gnome.org/World/deja-dup)
 - [Rclone](https://rclone.org/)
 
+### Color Picker
+
+Mac apps: ColorSchemer Studio, Spectrum
+
+Linux apps:
+
+- [Gpick](http://www.gpick.org/)
+
 ## Development
 
 ### Code Editors
@@ -238,6 +282,18 @@ Linux apps:
 - [VS Code](https://code.visualstudio.com/)
 - [Atom](https://atom.io)
 
+### Database management
+
+Mac apps: Querious, Sequel Pro
+
+Linux apps:
+
+- [DBeaver](https://dbeaver.io/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Valentina Studio](https://www.valentina-db.com/en/get-free-valentina-studio)
+- [RazorSQL](https://www.razorsql.com/)
+- [SQuirrel SQL](http://www.squirrelsql.org/)
+
 ### Diff tools
 
 Mac apps: Apple FileMerge, Kaleidoscope, Beyond Compare, Araxis Merge, DeltaWalker, DiffMerge
@@ -250,6 +306,19 @@ Linux apps:
 - [KDiff3](http://kdiff3.sourceforge.net/)
 - [tkdiff](https://sourceforge.net/projects/tkdiff/)
 - [Beyond Compare](https://www.scootersoftware.com/index.php)
+
+### Git client
+
+Mac apps: Tower, Fork, Sourcetree, GitKraken, Sublime Merge, SmartGit
+
+Linux apps:
+
+- [GitKraken](https://www.gitkraken.com/)
+- [GitAhead](https://scitools.com/gitahead)
+- [GitEye](https://www.collab.net/products/giteye)
+- [Sublime Merge](https://www.sublimemerge.com/)
+- [SmartGit](https://www.syntevo.com/smartgit/)
+- [Aurees Git Client](https://aurees.com/)
 
 <hr>
 
