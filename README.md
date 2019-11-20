@@ -313,6 +313,7 @@ Mac apps: Tower, Fork, Sourcetree, GitKraken, Sublime Merge, SmartGit
 
 Linux apps:
 
+- [Git Extensions](https://gitextensions.github.io/)
 - [GitKraken](https://www.gitkraken.com/)
 - [GitAhead](https://scitools.com/gitahead)
 - [GitEye](https://www.collab.net/products/giteye)
