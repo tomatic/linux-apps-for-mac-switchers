@@ -86,6 +86,14 @@ Linux apps:
 - [TaskCoach](https://sourceforge.net/projects/taskcoach/)
 - [Rachota](https://sourceforge.net/projects/rachota/)
 
+### Invoicing
+
+Mac apps: GrandTotal, Billings
+
+Linux apps:
+
+- [Fakturama](https://www.fakturama.info/)
+
 ### Writing
 
 Mac apps: Scrivener, Ulysses
