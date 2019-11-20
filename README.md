@@ -74,6 +74,28 @@ Linux apps:
 - [Kontact](https://kontact.kde.org/)
 - [NextCloud](https://nextcloud.com/)
 
+### Time tracking
+
+Mac apps: Tyme, OfficeTime, Timing, Klok, Billings
+
+Linux apps:
+
+- [Project Hamster](https://github.com/projecthamster/)
+- [gtimelog](https://gtimelog.org/)
+- [TimeSlotTracker](https://sourceforge.net/projects/timeslottracker/)
+- [TaskCoach](https://sourceforge.net/projects/taskcoach/)
+- [Rachota](https://sourceforge.net/projects/rachota/)
+
+### Writing
+
+Mac apps: Scrivener, Ulysses
+
+Linux apps:
+
+- [Manuskript](http://www.theologeek.ch/manuskript/)
+- [Skribisto (formerly Plume Creator)](https://github.com/jacquetc/skribisto)
+- [oStorybook](http://ostorybook.tuxfamily.org/index.php?lng=en&tconfig=0)
+
 ## Graphics & Design
 
 Pixel- and vector-based image editing and UI design tools
@@ -148,6 +170,17 @@ Linux apps:
 
 ## Utilities
 
+### Password manager
+
+Mac apps: 1Password, LastPass, Dashlane, Enpass, ...
+
+Linux apps:
+
+- [pass](https://www.passwordstore.org/)
+- [KeePassXC](https://keepassxc.org/project/)
+- [Enpass](https://www.enpass.io/)
+- [keeweb](https://github.com/keeweb/keeweb)
+
 ### Launcher
 
 Mac apps: LaunchBar, Alfred
@@ -168,6 +201,21 @@ Mac apps: Fluid, Epichrome, Flotato
 Linux apps:
 
 - [nativefier](https://github.com/jiahaog/nativefier)
+
+### Backup
+
+Mac apps: Time Machine, SuperDuper!, ChronoSync, Carbon Copy Cloner
+
+Linux apps:
+
+- [Bacula](https://sourceforge.net/projects/bacula/files/bacula/)
+- [rsync](https://rsync.samba.org/)
+- [fwbackups](http://www.diffingo.com/oss/fwbackups/download)
+- [Back in time](https://github.com/bit-team/backintime)
+- [Timeshift](https://github.com/teejee2008/timeshift)
+- [duplicity](http://duplicity.nongnu.org/)
+- [Déjà Dup](https://gitlab.gnome.org/World/deja-dup)
+- [Rclone](https://rclone.org/)
 
 ## Development
 
