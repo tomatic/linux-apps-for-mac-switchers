@@ -86,6 +86,7 @@ Linux apps:
 - [TaskCoach](https://sourceforge.net/projects/taskcoach/)
 - [Rachota](https://sourceforge.net/projects/rachota/)
 - [Charm](https://github.com/KDAB/Charm)
+- [Kimai](https://www.kimai.org/)
 
 ### Invoicing
 
