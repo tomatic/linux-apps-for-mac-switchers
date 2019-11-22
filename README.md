@@ -284,9 +284,14 @@ Linux apps:
 
 - [Gpick](http://www.gpick.org/)
 
+### Screenshot Tool
+
+- [Flameshot](https://flameshot.js.org/)
+- [Shutter](https://shutter-project.org/)
+
 ## Development
 
-### Code Editors
+### Code Editor
 
 Mac apps: Atom, VS Code, TextMate, BBEdit, Sublime Text, ...
 
