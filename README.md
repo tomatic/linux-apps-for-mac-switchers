@@ -41,6 +41,19 @@ Linux apps:
 - [Gnumeric](http://www.gnumeric.org/)
 - [pyspread](https://manns.github.io/pyspread/)
 
+### PDF Editor
+
+Mac apps: Apple Preview, Adobe Acrobat, Foxit PhantomPDF, PDF Pen Pro, PDFExpert, ...
+
+Linux apps:
+
+- [Okular](https://okular.kde.org/)
+- [Qoppa PDF Studio](https://www.qoppa.com/pdfstudio/)
+- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/)
+- [Master PDF Editor](https://code-industry.net/masterpdfeditor/)
+- [Scribus](https://www.scribus.net/)
+- [Foxit PDF Reader](https://www.foxitsoftware.com/pdf-reader/)
+
 ### Email
 
 Mac apps: Apple Mail, MailMate, AirMail, Microsoft Outlook, Postbox, Thunderbird, Newton, ...
