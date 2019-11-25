@@ -251,6 +251,7 @@ Linux apps:
 - [zazu](https://github.com/tinytacoteam/zazu)
 - [kupfer](https://kupferlauncher.github.io/)
 - [dmenu](https://tools.suckless.org/dmenu/)
+- [Rofi](https://github.com/davatorium/rofi)
 
 ### Single-source / site-specific browser
 
