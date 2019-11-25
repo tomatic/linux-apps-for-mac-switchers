@@ -247,6 +247,7 @@ Mac apps: LaunchBar, Alfred
 Linux apps:
 
 - [Albert](https://github.com/albertlauncher/albert)
+- [Ulauncher](https://ulauncher.io/)
 - [zazu](https://github.com/tinytacoteam/zazu)
 - [kupfer](https://kupferlauncher.github.io/)
 - [dmenu](https://tools.suckless.org/dmenu/)
