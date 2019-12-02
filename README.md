@@ -120,6 +120,18 @@ Linux apps:
 - [Skribisto (formerly Plume Creator)](https://github.com/jacquetc/skribisto)
 - [oStorybook](http://ostorybook.tuxfamily.org/index.php?lng=en&tconfig=0)
 
+### Mind Mapping
+
+Mac apps: MindNode, SimpleMind, XMind, Freemind, MindManager
+
+Linux apps:
+
+- [Freeplane](https://www.freeplane.org/)
+- [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+- [Semantik](https://waf.io/semantik.html)
+- [VYM](https://www.insilmaril.de/vym/)
+- [yEd](https://wiki.ubuntuusers.de/yEd/)
+
 ## Graphics & Design
 
 Pixel- and vector-based image editing and UI design tools
