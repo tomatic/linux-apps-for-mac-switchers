@@ -290,6 +290,7 @@ Linux apps:
 - [duplicity](http://duplicity.nongnu.org/)
 - [Déjà Dup](https://gitlab.gnome.org/World/deja-dup)
 - [Rclone](https://rclone.org/)
+- [Clonezilla](https://clonezilla.org/)
 
 ### Color Picker
 
