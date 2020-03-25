@@ -157,6 +157,7 @@ Linux apps:
 - [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org/)
 - [sK1](https://sk1project.net/)
+- [Karbon](https://calligra.org/karbon/)
 - [Gravit Designer](https://www.designer.io/)
 - [Vectr](https://vectr.com/)
 - [Figma](https://www.figma.com/)
