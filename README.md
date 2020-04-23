@@ -351,7 +351,7 @@ Linux apps:
 
 - [Git Extensions](https://gitextensions.github.io/)
 - [GitKraken](https://www.gitkraken.com/)
-- [GitAhead](https://scitools.com/gitahead)
+- [GitAhead](https://gitahead.github.io/gitahead.com/)
 - [GitEye](https://www.collab.net/products/giteye)
 - [Sublime Merge](https://www.sublimemerge.com/)
 - [SmartGit](https://www.syntevo.com/smartgit/)
